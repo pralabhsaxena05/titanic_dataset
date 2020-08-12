@@ -10,6 +10,6 @@ It is a classification problem. Titanic dataset is available on Kaggle.
 
 Used machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-# requirement
+# Requirement
 Python 3 or above, 
 Jupyter Notebook
